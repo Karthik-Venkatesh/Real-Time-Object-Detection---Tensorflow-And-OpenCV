@@ -32,5 +32,5 @@ The installation guide for tensorflow object detection is given in the following
 
 1. Download **object\_detection\_tutorial.py** python file.
 2. Move file to the Tensorflow models folder.
-	file path is *models-master/research/object\_detection*
-3. Run file using command `python object_detection_tutorial.py`
+	File path is *models-master/research/object\_detection*
+3. Run file using command `python object_detection_tutorial.py` in terminal
